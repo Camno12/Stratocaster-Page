@@ -1,0 +1,15 @@
+
+html{
+    background-color:#2b2b2b;
+}
+
+.main {
+    text-align:center;
+    font-family:"Helvetica", serif;
+    font-size:24px;
+    color:#cfcecc;
+}
+
+.left{
+    text-align:left;
+}
